@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "Cosmic-Devices/android_device_xiaomi_msm8996-common",
     "target_path": "device/xiaomi/msm8996-common",
-    "branch": "oreo-mr1"
+    "branch": "pulsar-release"
   },
   {
     "remote": "github",
@@ -16,11 +16,5 @@
     "repository": "Felvesthe/prebuilts_gcc_linux-x86_aarch64",
     "target_path": "prebuilts/gcc/linux-x86/aarch64",
     "branch": "gcc-7.3.1"
-  },
-  {
-    "remote": "github",
-    "repository": "Darkness-Devices/Android_Kernel_Xiaomi_MSM8996",
-    "target_path": "kernel/xiaomi/msm8996",
-    "branch": "oreo-eas"
   }
 ]
