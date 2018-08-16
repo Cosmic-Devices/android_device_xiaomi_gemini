@@ -13,8 +13,8 @@
   },
   {
     "remote": "github",
-    "repository": "Felvesthe/prebuilts_gcc_linux-x86_aarch64",
-    "target_path": "prebuilts/gcc/linux-x86/aarch64",
-    "branch": "gcc-7.3.1"
+    "repository": "AEXmod/platform_prebuilts_kernel-tc",
+    "target_path": "prebuilts/clang/host/linux-x86/kernel",
+    "branch": "clang"
   }
 ]
